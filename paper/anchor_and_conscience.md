@@ -54,7 +54,7 @@ For decades, I worked in public education—as a teacher, a principal, a superin
 
 This is Bonhoeffer's problem in miniature. Not stupidity in his sense—these students had not surrendered their reflective autonomy to group pressure. They had armored it. They had achieved a kind of total epistemic sovereignty: conscience answerable only to itself, all external calibrating instruments rejected. And they were suffering from it. A self that admits no input calcifies. It doesn't grow. It fortifies.
 
-The pedagogical literature gave me one anchor. John Hattie's meta-analytic research on educational interventions identified "teacher estimates of achievement" as the single highest effect size in the literature: *d* = 1.62. This dwarfs nearly every other intervention studied. What it means is deceptively simple: the teacher's belief in the student's capacity is the most powerful determinant of the student's achievement. Not the curriculum. Not the methodology. Not the resources. The belief.
+The pedagogical literature gave me one anchor. John Hattie's meta-analytic research on educational interventions identified "teacher estimates of achievement" as the single highest effect size in the literature: *d* = 1.29 across four meta-analyses, with Südkamp, Kaiser, and Möller (2012) finding *d* = 1.62 for teacher judgment accuracy alone. Either figure dwarfs nearly every other intervention studied. What it means is deceptively simple: the teacher's belief in the student's capacity is the most powerful determinant of the student's achievement. Not the curriculum. Not the methodology. Not the resources. The belief.
 
 The implication is uncomfortable. If I believe a student is capable of self-examination, that belief scaffolds their capacity. If I treat them as incapable, I produce the incapacity I claim to measure. The instrument and the measurement are not independent. The observer alters the observed.
 
@@ -96,7 +96,7 @@ The same principle applies to epistemic scaffolding. A system designed to calibr
 
 The system must enter as a mirror that introduces friction, not an oracle that pronounces truth.
 
-Hattie's finding provides the entry mechanism. The scaffold gains access not by being right but by *believing the subject is capable of being right*. Effect size 1.62 is not produced by the teacher's knowledge of the correct answer. It is produced by the teacher's estimation of the student's capacity. The belief is the signal. The subject's reflective system recognizes the belief—*this person thinks I can do this*—and that recognition opens a channel that no amount of correct information alone could open.
+Hattie's finding provides the entry mechanism. The scaffold gains access not by being right but by *believing the subject is capable of being right*. An effect size of 1.29 is not produced by the teacher's knowledge of the correct answer. It is produced by the teacher's estimation of the student's capacity. The belief is the signal. The subject's reflective system recognizes the belief—*this person thinks I can do this*—and that recognition opens a channel that no amount of correct information alone could open.
 
 In the classroom, this was not theory. It was Tuesday. The student who had been expelled from three schools did not start doing algebra because the teacher explained algebra better. They started because someone assumed, visibly and consistently, that they could do algebra—and held open the space between what they knew and what they didn't, without collapsing it in either direction. Neither "you're fine as you are" (which eliminates the delta from below) nor "you should already know this" (which eliminates it from above). Just: here is the gap. I believe you can cross it. Let's see.
 
@@ -216,7 +216,7 @@ But the liberation left a structural gap. If conscience is sovereign and all ext
 
 The evolutionary mismatch made the gap critical. The informational environment now overwhelms the reflective system the way modern caloric density overwhelms appetite regulation. And just as the pharmaceutical response has been to recover an endogenous signal rather than impose an exogenous one, the appropriate response to epistemic overwhelm is to recover the endogenous reflective capacity—not to impose external truth, which is both impractical and undesirable.
 
-The system we have built is that recovery mechanism. It does not tell the user what is true. It preserves the space between what the user perceives and what might be real, and it does so with the same foundational commitment that powered the Reformation itself: respect for the individual's capacity to arrive at truth through their own reflective process. The system assumes, visibly and persistently, that the user can do this. Hattie's effect size of 1.62 says that this assumption is not naïve—it is the single most powerful intervention available.
+The system we have built is that recovery mechanism. It does not tell the user what is true. It preserves the space between what the user perceives and what might be real, and it does so with the same foundational commitment that powered the Reformation itself: respect for the individual's capacity to arrive at truth through their own reflective process. The system assumes, visibly and persistently, that the user can do this. Hattie's effect size says that this assumption is not naïve—it is the single most powerful intervention available.
 
 The pedagogy predates the philosophy. This work was happening in classrooms decades before it had a theoretical name. The philosophy predates the technology. Luther's insight—that conscience must be free—remains correct. The technology provides what neither the pedagogy alone nor the philosophy alone could guarantee: persistence across time, measured fidelity, resistance to the drift that afflicts all unmonitored systems, and an empirical signal—Δ = 6.7—that the mechanism works.
 
@@ -245,3 +245,5 @@ Plato. *Theaetetus*. (Midwife metaphor for knowledge, 148e-151d.)
 Sapolsky, R. M. (2023). *Determined: A Science of Life Without Free Will*. Penguin Press.
 
 Sousa, D. A. (2022). *How the Brain Learns* (6th ed.). Corwin Press.
+
+Südkamp, A., Kaiser, J., & Möller, J. (2012). Accuracy of teachers' judgments of students' academic achievement: A meta-analysis. *Journal of Educational Psychology*, 104(3), 743-762.
